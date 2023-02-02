@@ -4,11 +4,11 @@ function uniqueInfo(employee){
     
     switch(employee.getRole().toLowerCase()){
         case 'manager':
-            return `<p class="card-text">Office number:${employee.getOffice()}</p>`
+            return `<p class="card-text">Office number: ${employee.getOffice()}</p>`
         case 'intern':
-            return `<p class="card-text">School:${employee.getSchool()}</p>`
+            return `<p class="card-text">School: ${employee.getSchool()}</p>`
         case 'engineer':
-            return `<p class="card-text">GitHub account:<a href="https://github.com/${employee.getGithub()}" target="_blank">${employee.getGithub()}</a></p>`
+            return `<p class="card-text">GitHub account: <a href="https://github.com/${employee.getGithub()}" target="_blank">${employee.getGithub()}</a></p>`
     }
     }
 
