@@ -1,6 +1,12 @@
 
 # Module 10 Challenge - Object-Oriented Programming Challenge - Team Profile Generator
 
+> Repository URL: https://github.com/ptrcao/10-Week_OOP-02-Challenge.git
+
+> Video demonstration at: https://youtu.be/FZp5ctvo_ZQ
+
+> Sample HTML file: https://github.com/ptrcao/10-Week_OOP-02-Challenge/blob/main/dist/index.html
+
 ![license](https://img.shields.io/static/v1?label=license&message=unspecified&color=blue&style=for-the-badge)
 
   Built with:
